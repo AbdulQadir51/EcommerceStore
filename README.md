@@ -13,3 +13,9 @@ A GET route for categories, products, or tags opens in Insomnia
 A formatted JSON file is then displayed for each of these routes
 Insomnia tests API POST, PUT, and DELETE routes
 After that, I am able to create, update, and delete data in my database successfully
+
+## Github Link
+https://github.com/AbdulQadir51/EcommerceStore
+
+## Video Link
+https://www.loom.com/share/fe24cb236a56486c968287b996f6756f
