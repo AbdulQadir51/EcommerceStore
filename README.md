@@ -19,3 +19,7 @@ https://github.com/AbdulQadir51/EcommerceStore
 
 ## Video Link
 https://www.loom.com/share/fe24cb236a56486c968287b996f6756f
+
+## Screnshots
+![screenshot 1](assets/screenshots/screenshot1.png) 
+![screenshot 2](assets/screenshots/screenshot2.png) 
